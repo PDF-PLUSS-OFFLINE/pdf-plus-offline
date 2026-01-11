@@ -23,4 +23,4 @@ Các công cụ xử lý PDF &amp; hồ sơ hành chính dùng offline, tập tr
 Một số tính năng chuyển đổi (PDF → Word, OCR) **không đảm bảo chính xác 100%**, người dùng cần kiểm tra lại nội dung sau khi xử lý.
 
 ## 👤 Tác giả
-Nguyễn Đình Tri  
+Nguyen Dinh Tri
